@@ -1,0 +1,7 @@
+
+Client: US
+
+
+Looking for someone that can put together an interactive prototype using the limitless admin HTML5 bootstrap template. Using our basic wireframe mockup and user flow, we need a developer to build the navigation structure and then build some of the pages by just copying the standard elements to each page, no new styling or functionality. I have attached the basic wireframe mockup and the link to the admin template. We've purchased the template.
+
+http://demo.interface.club/limitless/layout_2/LTR/material/index.html less
